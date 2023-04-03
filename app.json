@@ -6,5 +6,12 @@
     },
     "name": "FindYourJob",
     "slug": "FindYourJob"
+  },
+  "extra": {
+    "resolver": {
+      "alias": {
+        "@": "./src"
+      }
+    }
   }
 }
